@@ -1,0 +1,25 @@
+body {
+  font-family: Sans-Serif;
+  margin: 30px;
+}
+
+.wineglass {
+  height: 40px;
+}
+
+.navbar-brand {
+  padding: 5px 20px;
+}
+
+li.details {
+  display: inline;
+  margin-right: 10px;
+}
+
+main {
+  padding: 0 30px;
+}
+
+.wine-item {
+  margin: 20px;
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "timeStamp": 1505613619838,
+    "hash": "807d8d206686a9d85a49",
+    "version": "3.5.5",
+    "errors": [
+      "./client/index.jsx\nModule parse failed: /Users/jonroach/Programming/codesmith/real-time-wine/client/index.jsx Unexpected token (10:2)\nYou may need an appropriate loader to handle this file type.\n| \n| render((\n|   <BrowserRouter>\n|     <App />\n|   </BrowserRouter>\n @ multi ./index.jsx"
+    ],
+    "size": 2869,
+    "assets": [
+      {
+        "name": "bundle.js",
+        "chunks": [
+          0
+        ],
+        "size": 2869
+      }
+    ],
+    "chunks": [
+      {
+        "size": 298,
+        "files": [
+          "bundle.js"
+        ],
+        "entry": true,
+        "hash": "4357640697899c3c17d5",
+        "parents": [],
+        "rendered": true,
+        "inital": true,
+        "modules": [
+          {
+            "name": "multi ./index.jsx",
+            "size": 28,
+            "id": 0,
+            "warnings": 0,
+            "errors": 0,
+            "depth": 0,
+            "issuerId": null
+          },
+          {
+            "name": "./client/index.jsx",
+            "size": 270,
+            "id": 1,
+            "warnings": 0,
+            "errors": 1,
+            "depth": 1,
+            "issuerId": 0
+          }
+        ]
+      }
+    ]
+  }
+]
