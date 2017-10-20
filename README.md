@@ -2,7 +2,7 @@
 
 A European fine wine market data aggregator with sematic, dynamic routing.
 
-![openfinewine](screenshot)
+![openfinewine](https://s3.amazonaws.com/poly-screenshots.angel.co/Project/40/622223/fba6ad8ca09400e4ac75687b989c064d-original.png)
 
 ## Getting Started
 
@@ -15,4 +15,4 @@ You'll need to set up and run Mongo. Check out and feel free to amend local copy
 * [Express](https://expressjs.com/)
 * [Mongo](https://www.mongodb.com/)
 
-[screenshot]: https://s3.amazonaws.com/poly-screenshots.angel.co/Project/40/622223/fba6ad8ca09400e4ac75687b989c064d-original.png
+[screenshot]: 
