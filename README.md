@@ -2,7 +2,7 @@
 
 A European fine wine market data aggregator with sematic, dynamic routing.
 
-![openfinewine](https://github.com/roachjc/openfinewine/screenshot.png)
+![openfinewine](https://github.com/roachjc/openfinewine/screenshot.gif)
 
 ## Getting Started
 
