@@ -14,5 +14,3 @@ You'll need to set up and run Mongo. Check out and feel free to amend local copy
 * [React-Router](https://reacttraining.com/react-router/)
 * [Express](https://expressjs.com/)
 * [Mongo](https://www.mongodb.com/)
-
-[screenshot]: 
